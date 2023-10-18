@@ -1,0 +1,15 @@
+body {
+  --starship-50: #fbfcea;
+  --starship-100: #f4f8c9;
+  --starship-200: #edf296;
+  --starship-300: #e7ea53;
+  --starship-400: #e3df2c;
+  --starship-500: #d3c71f;
+  --starship-600: #b69f18;
+  --starship-700: #927516;
+  --starship-800: #795d1a;
+  --starship-900: #674d1c;
+  --starship-950: #3c2a0c;
+
+  background: linear-gradient(--starship-900, --starship-300);
+}
